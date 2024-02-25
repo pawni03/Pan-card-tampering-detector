@@ -15,8 +15,8 @@ This project is an example of how one can use machine learning and image process
 **Dependencies**
 Python
 Google Colab
-**Libraries **skimage.metrics, imutils, PIL, requests, NumPy, OpenCV
+Libraries: skimage.metrics, imutils, PIL, requests, NumPy, OpenCV
 
-#Data Sources
+**Data Sources**
 Publicly available PAN card images (e.g., government websites, online repositories)
 Personal PAN card dataset
