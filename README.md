@@ -3,7 +3,7 @@
 
 This project is an example of how one can use machine learning and image processing techniques to identify any potential tampering or alterations in PAN (Permanent Account Number) cards issued by the Income Tax Department of India. This project provides a simple and efficient way to analyze PAN card images and flag any suspicious modifications.
 
-#Basic Understanding of code
+**Basic Understanding of code**
 * Collect two different Pan card images - orginal & tampered
 * Resize and change format if required
 * Convert the images into gray scale
@@ -12,10 +12,10 @@ This project is an example of how one can use machine learning and image process
 * Find and extract contours in the thresholded image to identify and extract the boundaries of regions that have changed or differ significantly from the reference image.
 * Create blue rectangle boxes in both images to the parts which have been tampered making it easier to analyze the differences between the two images.
 
-#Dependencies
+**Dependencies**
 Python
 Google Colab
-Libraries: skimage.metrics, imutils, PIL, requests, NumPy, OpenCV
+**Libraries **skimage.metrics, imutils, PIL, requests, NumPy, OpenCV
 
 #Data Sources
 Publicly available PAN card images (e.g., government websites, online repositories)
