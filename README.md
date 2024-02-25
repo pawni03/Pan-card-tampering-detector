@@ -13,10 +13,10 @@ This project is an example of how one can use machine learning and image process
 * Create blue rectangle boxes in both images to the parts which have been tampered making it easier to analyze the differences between the two images.
 
 **Dependencies**
-Python
-Google Colab
-Libraries: skimage.metrics, imutils, PIL, requests, NumPy, OpenCV
+* Python
+* Google Colab
+* Libraries: skimage.metrics, imutils, PIL, requests, NumPy, OpenCV
 
 **Data Sources**
-Publicly available PAN card images (e.g., government websites, online repositories)
-Personal PAN card dataset
+* Publicly available PAN card images (e.g., government websites, online repositories)
+* Personal PAN card dataset
